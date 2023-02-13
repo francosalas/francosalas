@@ -6,7 +6,7 @@
 
 - 👨‍💻 Actualmente estoy trabajando en recursos humanos en una empresa de diesel.
 - 📚 Actualmente estoy aprendiendo todo sobre las tecnologías Frontend y Backend 😅
-- 💪🏼 Metas futuras: Aprender más tecnologías y más lenguajes.
+- 💪🏼 Metas futuras: Aprender más tecnologías, más lenguajes y lograr ser un gran reclutador en mis tiempos libres.
 - ⚡ Dato curioso: me encanta el anime.
 
 ---
