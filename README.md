@@ -2,12 +2,12 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## Soy estudiante de Full Stack Developer en la Fundación Formar, avalada por la reconocida organización Digital House.
+## Soy estudiante de Programador Full Stack en Fundación Formar, avalada por la reconocida organización Digital House y Banco Santander.
 
 - 👨‍💻 Actualmente estoy trabajando en recursos humanos en una empresa de diesel.
 - 📚 Actualmente estoy aprendiendo todo sobre las tecnologías Frontend y Backend 😅
-- 💪🏼 Metas futuras: Aprende más tecnologías - Nunca dejes de crear nuevas ideas.
-- ⚡ Dato curioso: me encanta el anime
+- 💪🏼 Metas futuras: Aprender más tecnologías y más lenguajes.
+- ⚡ Dato curioso: me encanta el anime.
 
 ---
 
