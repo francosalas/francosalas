@@ -1,6 +1,7 @@
 # Hi there, I'm Franco
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
 ## Soy estudiante de Programador Full Stack en Fundación Formar, avalada por la reconocida organización Digital House y Banco Santander.
 
 - 👨‍💻 Actualmente estoy trabajando en recursos humanos en una empresa de diesel.
