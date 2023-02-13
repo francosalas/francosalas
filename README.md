@@ -2,18 +2,16 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Full Stack Developer student at the Fundacion Formar, which is endorsed by the well-known organization Digital House.
+## Soy estudiante de Full Stack Developer en la Fundación Formar, avalada por la reconocida organización Digital House.
 
-- 👨‍💻 I am currently working in human resources at a diesel company.
-- 📚 I am currently learning all about Frontend and Backend technologies 😅
-- 💪🏼 Future goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love anime.
+- 👨‍💻 Actualmente estoy trabajando en recursos humanos en una empresa de diesel.
+- 📚 Actualmente estoy aprendiendo todo sobre las tecnologías Frontend y Backend 😅
+- 💪🏼 Metas futuras: Aprende más tecnologías - Nunca dejes de crear nuevas ideas.
+- ⚡ Dato curioso: me encanta el anime
 
 ---
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
-
-### Languages and Tools 🛠 
+### Lenguajes y Herramientas 🛠 
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
@@ -31,21 +29,11 @@
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
-<br/>
 
 ---
 
 <br/>
-
-  <h2 align="center"> Github Statistics 📈 </h2>
   
-  <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bgstatic&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bgstatic&theme=react&line_height=40&hide=css"/>
-    </a>
-</div
+![FrancoSalas GitHub Stats](https://github-readme-stats.vercel.app/api?username=francosalas&show_icons=true&theme=radical)
   
 <br/>
